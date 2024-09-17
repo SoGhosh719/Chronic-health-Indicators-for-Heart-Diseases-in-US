@@ -21,16 +21,12 @@ Mortality rates were further examined across overall, male, and female populatio
 
 ### Observations
 - The graphs revealed a variety of patterns in mortality rates across the four CVD categories and gender groups.
-  - *[Describe the specific observations from each subplot. Were there increases, decreases, or stable patterns in mortality rates? Did any categories or genders show outliers or sudden changes?]*
 - Gender differences were observed in mortality rates for some CVD categories.
-  - *[Describe any significant differences between male and female trends.]*
 
 ### Overall Comparison
-- *[Mention any overarching observations across all CVD categories. Did all categories show similar trends, or were there significant differences?]*
 
 ### Further Exploration
 - A longer time frame for data analysis is recommended to confirm or establish trends in CVD mortality rates with more certainty.
-- *[If applicable, suggest further investigation into specific CVD categories or gender differences that showed concerning trends.]*
 
 ### Public Health Significance
 - Monitoring CVD mortality rates is crucial for understanding the burden of cardiovascular disease on the population.
